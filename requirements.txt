@@ -1,0 +1,20 @@
+pandas
+os
+boto3 #for AWS deployement. Replace with your own cloud service libraries if needed.
+torch
+sagemaker #for AWS deployment. Replace with your own cloud service libraries if needed.
+csv
+torch
+numpy
+scikit-learn
+ipykernel
+transformers 
+datasets 
+peft
+accelerate 
+bitsandbytes 
+#For metrics and visualization:
+gradio
+nltk
+rouge-score
+evaluate
